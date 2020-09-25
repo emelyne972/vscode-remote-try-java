@@ -3,9 +3,9 @@
  * Licensed under the MIT License. See LICENSE in the project root for license information.
  *---------------------------------------------------------------------------------------*/
 
-package com.mycompany.app;
+package io.github.emelyne972;
 
-public class App 
+public class Etudiant 
 {
     public static void main( String[] args )
     {
